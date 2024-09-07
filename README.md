@@ -6,3 +6,7 @@ then npx create-eract-app firstapp
 Happy Hacking! will come.
 type cd firstapp
 and npm start for the output at the termional of the VS code
+
+----------------For the bootstrap-----------------
+copy paste into terminal: npm install react-bootstrap bootstrap
+and copy this to app.js: import 'bootstrap/dist/css/bootstrap.min.css';
